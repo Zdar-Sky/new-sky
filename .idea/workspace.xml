@@ -50,6 +50,13 @@
     "Python.L6_lear1_1.executor": "Run",
     "Python.L6_lear1_2.executor": "Run",
     "Python.L6_lear1_3.executor": "Run",
+    "Python.L7_hw1.executor": "Run",
+    "Python.L7_hw2.executor": "Run",
+    "Python.L7_hw3.executor": "Run",
+    "Python.L7_lear1_0.executor": "Run",
+    "Python.L7_lear1_1.executor": "Run",
+    "Python.L7_lear1_2.executor": "Run",
+    "Python.L7_lear1_3.executor": "Run",
     "Python.calculation.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.test.executor": "Run",
@@ -69,8 +76,8 @@
       <recent name="C:\Users\zdars\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.L6_hw3">
-    <configuration name="L6_hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.L7_hw3">
+    <configuration name="L7_hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L6_hw1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L7_hw1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="L6_hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="L7_hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L6_hw2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L7_hw2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="L6_hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="L7_hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L6_hw3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L7_hw3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="L6_lear1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="L7_lear1_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L6_lear1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L7_lear1_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="L6_lear1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="L7_lear1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L6_lear1_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sky_0/L7_lear1_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.L6_hw3" />
-        <item itemvalue="Python.L6_hw2" />
-        <item itemvalue="Python.L6_hw1" />
-        <item itemvalue="Python.L6_lear1_3" />
-        <item itemvalue="Python.L6_lear1_2" />
+        <item itemvalue="Python.L7_hw3" />
+        <item itemvalue="Python.L7_hw2" />
+        <item itemvalue="Python.L7_lear1_2" />
+        <item itemvalue="Python.L7_lear1_0" />
+        <item itemvalue="Python.L7_hw1" />
       </list>
     </recent_temporary>
   </component>
