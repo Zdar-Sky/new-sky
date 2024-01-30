@@ -1,0 +1,6 @@
+x = input('Enter text: ')
+print(x[2:3])
+print(x[:4])
+print(x[1::2])
+print(x[0::2])
+print(x[-1::-1])
